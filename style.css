@@ -1,57 +1,61 @@
 body {
     background-color: #DDD;
+    font-family: Arial, Helvetica, sans-serif;
 }
-
 .profile-photo {
-    text-align: center;
     margin-top: 30px;
 }
-
-
-
-
-html{
+html {
     font-family: Helvetica;
-    background-color: #DDD;
+    background-color: cadetblue;
+    
 }
-/*
-.container{
+
+.container {
     max-width: 1200px;
     position: relative;
     margin-left: auto;
     margin-right: auto;
     padding: 20px 50px;
-    background-color: #fff;
+    background-color: cadetblue;
 }
 
-.destaque{
-    font-weight:bold ;
+header img {
+    background-color: #aaa;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    position: relative;
 }
 
-/*cabeçalho
-
-.cabecalho{
-    text-align: center;
-}
-
-.main-title{
-    font-size: 40px;
-}
-
-.paragrafo-principal {
-    font-style: italic;
-}
-/*corpo do site
-
-.img-destaque {
-    text-align: center;
-    margin-top: 30px;
-}
-
-.biografia-container{
+.curiosidades-container {
     padding: 25px 0;
     margin: 25px 0;
-    border-top: 1px dashed #DDD;
-    border-bottom: 1px dashed #DDD;
+    border-top: 1px dashed cadetblue;
+    border-bottom: 1px dashed cadetblue;
 }
-*/
+
+.bio-container {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed cadetblue;
+    border-bottom: 1px dashed cadetblue;
+}
+
+.bio-container  p {
+    font-style: italic;
+}
+.interests-container li {
+    height: 30px;
+}
+
+.footer-profile {
+    display: ;
+    text-align: start;
+    font-family: 'Chivo Mono', monospace;
+    font-size: 16px;
+    color: rgb(254, 254, 254);
+    background-color: cadetblue;
+}
+
