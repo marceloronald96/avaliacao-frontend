@@ -1,0 +1,57 @@
+body {
+    background-color: #DDD;
+}
+
+.profile-photo {
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+
+
+html{
+    font-family: Helvetica;
+    background-color: #DDD;
+}
+/*
+.container{
+    max-width: 1200px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 50px;
+    background-color: #fff;
+}
+
+.destaque{
+    font-weight:bold ;
+}
+
+/*cabeçalho
+
+.cabecalho{
+    text-align: center;
+}
+
+.main-title{
+    font-size: 40px;
+}
+
+.paragrafo-principal {
+    font-style: italic;
+}
+/*corpo do site
+
+.img-destaque {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.biografia-container{
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #DDD;
+    border-bottom: 1px dashed #DDD;
+}
+*/
