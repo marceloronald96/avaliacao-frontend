@@ -51,11 +51,15 @@ header img {
 }
 
 .footer-profile {
-    display: ;
     text-align: start;
     font-family: 'Chivo Mono', monospace;
     font-size: 16px;
     color: rgb(254, 254, 254);
     background-color: cadetblue;
+}
+
+.copyright p {
+    display: flex;
+    text-align: center;
 }
 
