@@ -5,7 +5,7 @@ body {
 }
 .profile-photo {
     margin-top: 20px;
-    fon
+    
 }
 html {
     font-family: Helvetica;
@@ -31,21 +31,23 @@ header img {
 }
 
 .curiosidades-container {
-    padding: 25px 0;
-    margin: 25px 0;
+    padding: 10px 0;
+    margin: 10px 0;
     border-top: 2px dashed cadetblue;
     border-bottom: 2px dashed cadetblue;
 }
 
 .bio-container {
-    padding: 20px 0;
-    margin: 20px 0;
+    padding: 4px 0;
+    margin: 10px 0;
     border-top: 2px dashed cadetblue;
     border-bottom: 2px dashed cadetblue;
+
 }
 
 .bio-container  p {
     font-style: italic;
+    padding-inline-start: 10px;
 }
 .interests-container li {
     height: 30px;
