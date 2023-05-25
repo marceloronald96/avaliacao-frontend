@@ -33,8 +33,8 @@ header img {
 .curiosidades-container {
     padding: 10px 0;
     margin: 10px 0;
-    border-top: 2px dashed cadetblue;
-    border-bottom: 2px dashed cadetblue;
+    border-top: 1px dashed cadetblue;
+    border-bottom: 1px dashed cadetblue;
 }
 
 .bio-container {
@@ -48,6 +48,7 @@ header img {
 .bio-container  p {
     font-style: italic;
     padding-inline-start: 10px;
+    letter-spacing: normal;
 }
 .interests-container li {
     height: 30px;
