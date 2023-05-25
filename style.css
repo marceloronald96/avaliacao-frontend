@@ -1,14 +1,15 @@
 body {
     background-color: #DDD;
     font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
 }
 .profile-photo {
-    margin-top: 30px;
+    margin-top: 20px;
+    fon
 }
 html {
     font-family: Helvetica;
-    background-color: cadetblue;
-    
+    background-color:cadetblue; 
 }
 
 .container {
@@ -32,15 +33,15 @@ header img {
 .curiosidades-container {
     padding: 25px 0;
     margin: 25px 0;
-    border-top: 1px dashed cadetblue;
-    border-bottom: 1px dashed cadetblue;
+    border-top: 2px dashed cadetblue;
+    border-bottom: 2px dashed cadetblue;
 }
 
 .bio-container {
-    padding: 25px 0;
-    margin: 25px 0;
-    border-top: 1px dashed cadetblue;
-    border-bottom: 1px dashed cadetblue;
+    padding: 20px 0;
+    margin: 20px 0;
+    border-top: 2px dashed cadetblue;
+    border-bottom: 2px dashed cadetblue;
 }
 
 .bio-container  p {
@@ -56,10 +57,7 @@ header img {
     font-size: 16px;
     color: rgb(254, 254, 254);
     background-color: cadetblue;
+    padding: 10px;
 }
 
-.copyright p {
-    display: flex;
-    text-align: center;
-}
 
